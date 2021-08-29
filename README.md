@@ -1,5 +1,5 @@
 # Website Preview
-  The website was prepared for a Architecture / Construction company. This website has a plain appearance and consists of a single page. Also integrated with WhatsApp.
+   The website has been prepared for an Architecture/Construction company. This website aims to be stylish and dark colours are used. Consists of a single page.
 #
 # General view
 ![alt text](https://github.com/sercannaya/architecture-construction-company/blob/main/preview/preview.jpg)
